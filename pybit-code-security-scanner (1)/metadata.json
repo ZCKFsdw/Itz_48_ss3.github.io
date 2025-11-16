@@ -1,0 +1,5 @@
+{
+  "name": "Pybit Code Security Scanner",
+  "description": "An intelligent code analysis tool that leverages the Gemini API to detect potential malware, obfuscation techniques, and suspicious behavior in Python code snippets.",
+  "requestFramePermissions": []
+}
